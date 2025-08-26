@@ -1,0 +1,62 @@
+h1 {
+    color: darkviolet;
+    font-size: 40px;
+    font-style: oblique;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(189, 158, 202);
+    padding: 15px;
+}
+
+h2 {
+    color: darkviolet;
+    font-size: 30px;
+}
+
+h3 {
+    color: rgb(175, 84, 214);
+    font-size: 24px;
+}
+
+.nav-1 {
+    color: black;
+    font-size: 20px;
+}
+
+#Welcoming {
+    color: darkviolet;
+    font-size: 24px;
+    text-align: center;
+    background-color: rgb(189, 158, 202);
+    width: 30%;
+    padding: 40px;
+    margin: auto;
+}
+
+img {
+    border-width: 4px;
+    border-style: solid;
+    border-color: darkviolet;
+}
+
+.first-project, .second-project, .third-project {
+    font-size: 24px;
+    font-style: oblique;
+    font-weight: bold;
+    color: black;
+    background-color: rgb(189, 158, 202);
+    width: 15%;
+    padding: 10px;
+}
+
+.info-about-project1, .info-about-project2, .info-about-project3 {
+    font-size: 20px;
+    color: black;
+}
+
+.footer {
+    color: darkviolet;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
