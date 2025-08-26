@@ -4,9 +4,17 @@ h1 {
     font-style: oblique;
     font-weight: bold;
     text-align: center;
+    background-color: rgb(189, 158, 202);
+    padding: 15px;
 }
 
 .nav-2 {
     color: black;
     font-size: 20px;
+}
+
+img {
+    border-width: 4px;
+    border-style: solid;
+    border-color: darkviolet;
 }
